@@ -1,13 +1,13 @@
 <h1 align="center">Howdy, I'm Mahmud Abbas Mehedi</h1>
 <h3 align="center">I don't know what I'm donig here.</h3>
 
-<p align="center"> <img src="https://media1.tenor.com/m/tN2fmK9qeM8AAAAd/peter-griffin.gif" alt="mabbasmehedi" /> </p>
+<p align="center"> <img src="https://media1.tenor.com/m/fkPxqJwOVhoAAAAC/qforce-stat.gif" alt="Broo, gif disconncted" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mehediabbas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehediabbas" height="30" width="40" /></a>
-<a href="https://fb.com/m.abbasmehedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="m.abbasmehedi" height="30" width="40" /></a>
-<a href="https://instagram.com/mehediisnothere" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mehediisnothere" height="30" width="40" /></a>
+<a href="https://fb.com/mamhmudabbasmehedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="m.abbasmehedi" height="30" width="40" /></a>
+<a href="https://instagram.com/notsomehedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mehediisnothere" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
